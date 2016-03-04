@@ -1,4 +1,4 @@
-# Genetic-sweepers-lua-
+# Genetic sweepers (lua)
 An old little project, poor bots try to fill space and are bad at it :/
 
 Written with lua and an OLD version of Löve 2D.
